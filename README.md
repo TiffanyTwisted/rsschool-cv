@@ -1,3 +1,2 @@
-# rsschool-cv
- https://TiffanyTwisted.github.io/rsschool-cv/cv
+https://TiffanyTwisted.github.io/rsschool-cv/cv
  
