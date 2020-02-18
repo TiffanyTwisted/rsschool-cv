@@ -1,0 +1,33 @@
+body{
+  font-family: "Cambria";
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8)  ;
+  color: darkblue;
+  font-size: 18px;
+  text-align:center;
+
+}
+.skills li{
+text-align: center;
+margin-left: 200px;
+h1{
+ font-size: 36px;
+}
+.post{
+text-align:center;
+}
+.post-item{
+  border-radius: 80px;
+}
+.features {
+  margin-bottom: 30px;
+}
+
+.features li {
+  display: inline-block;
+  vertical-align: top;
+  width: 15%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-transform: uppercase;
+}
